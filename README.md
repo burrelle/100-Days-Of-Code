@@ -12,7 +12,7 @@
 
 **Today's Progress**: Apply the concept of "Array Cardio" in both JavaScript and PHP.
 
-**Thoughts**: Increaing comfort with array methods makes for more consise and readable code.
+**Thoughts**: Increasing comfort with array methods makes for more concise and readable code.
 
 **Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30) &
 [PHP Array Cardio](https://github.com/burrelle/php-array-cardio)
@@ -21,7 +21,7 @@
 
 **Today's Progress**: Continued working on the JavaScript 30 course by working on Flexbox and applying classes through vanilla JavaScript. Started working through Gophercises to familiarize myself with Golang. Started working through the Echo Framework (Go).
 
-**Thoughts**: Working through practical examples are the way that I learn how to do things. Working on Gophercises as well as working on the Echo framework for builing web applications with Go is a great way to sharpen fundementals.
+**Thoughts**: Working through practical examples are the way that I learn how to do things. Working on Gophercises as well as working on the Echo framework for building web applications with Go is a great way to sharpen fundamentals.
 
 **Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30) &
 [Gophercises](https://github.com/burrelle/gophercises)
