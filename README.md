@@ -25,3 +25,12 @@
 
 **Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30) &
 [Gophercises](https://github.com/burrelle/gophercises)
+
+### Day 4: January 4th, 2019
+
+**Today's Progress**: Continued working on the JavaScript 30 challenge. Refactored the Echo API with the addition of SQLite and GORM. Added integration testing and scaffolding of frontend.
+
+**Thoughts**: GORM made the application cleaner and made it possible to migrate to something like MySQL or Postgres as it moves closer to deployment. Took the opportunity to run the tests with Jest and Supertest.
+
+**Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30) &
+[Forest API](https://github.com/burrelle/forest)
