@@ -34,3 +34,28 @@
 
 **Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30) &
 [Forest API](https://github.com/burrelle/forest)
+
+### Day 5: January 5th, 2019
+
+**Today's Progress**: Continued working on the JavaScript 30 challenge. More array cardio using the prototype methods available on JavaScript arrays. 
+
+**Thoughts**: Increasing comfort with array methods makes for more concise and readable code.
+
+**Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30)
+
+### Day 6: January 6th, 2019
+
+**Today's Progress**: Continued working on the JavaScript 30 challenge. 
+
+**Thoughts**: While everyone is rushing to learn Typescript I am over here trying to improve my vanilla JavaScript. 
+
+**Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30)
+
+### Day 7: January 7th, 2019
+
+**Today's Progress**: Continued working on the JavaScript 30 challenge. Added new fields to the Forest API and started working on a simple front end that utilizes React's new Hooks API. 
+
+**Thoughts**: While hooks have not been released, I find it exciting to be able to learn about new features that will certainly be shaping the landscape of React here in the near future. 
+
+**Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30) &
+[Forest API](https://github.com/burrelle/forest)
