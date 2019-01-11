@@ -37,7 +37,7 @@
 
 ### Day 5: January 5th, 2019
 
-**Today's Progress**: Continued working on the JavaScript 30 challenge. More array cardio using the prototype methods available on JavaScript arrays. 
+**Today's Progress**: Continued working on the JavaScript 30 challenge. More array cardio using the prototype methods available on JavaScript arrays.
 
 **Thoughts**: Increasing comfort with array methods makes for more concise and readable code.
 
@@ -45,17 +45,52 @@
 
 ### Day 6: January 6th, 2019
 
-**Today's Progress**: Continued working on the JavaScript 30 challenge. 
+**Today's Progress**: Continued working on the JavaScript 30 challenge.
 
-**Thoughts**: While everyone is rushing to learn Typescript I am over here trying to improve my vanilla JavaScript. 
+**Thoughts**: While everyone is rushing to learn Typescript I am over here trying to improve my vanilla JavaScript.
 
 **Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30)
 
 ### Day 7: January 7th, 2019
 
-**Today's Progress**: Continued working on the JavaScript 30 challenge. Added new fields to the Forest API and started working on a simple front end that utilizes React's new Hooks API. 
+**Today's Progress**: Continued working on the JavaScript 30 challenge. Added new fields to the Forest API and started working on a simple front end that utilizes React's new Hooks API.
 
-**Thoughts**: While hooks have not been released, I find it exciting to be able to learn about new features that will certainly be shaping the landscape of React here in the near future. 
+**Thoughts**: While hooks have not been released, I find it exciting to be able to learn about new features that will certainly be shaping the landscape of React here in the near future.
+
+**Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30) &
+[Forest API](https://github.com/burrelle/forest)
+
+### Day 8: January 8th, 2019
+
+**Today's Progress**: Continued working on the JavaScript 30 challenge. Added new fields to the Forest API and started working on a simple front end that utilizes React's new Hooks API.
+
+**Thoughts**: While hooks have not been released, I find it exciting to be able to learn about new features that will certainly be shaping the landscape of React here in the near future.
+
+**Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30) &
+[Forest API](https://github.com/burrelle/forest)
+
+### Day 9: January 9th, 2019
+
+**Today's Progress**: Continued working on the JavaScript 30 challenge.
+
+**Thoughts**: While building a custom HTML5 video player was interesting, not something I would do often.
+
+**Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30)
+
+### Day 10: January 10th, 2019
+
+**Today's Progress**: Continued working on the JavaScript 30 challenge. Refactored the frontend of the Forest API.
+
+**Thoughts**: Enjoyed being able to write more React code without having to look at the documentation as much.
+
+**Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30) &
+[Forest API](https://github.com/burrelle/forest)
+
+### Day 11: January 11th, 2019
+
+**Today's Progress**: Continued working on the JavaScript 30 challenge. Refactored the frontend of the Forest API.
+
+**Thoughts**: Refactored using hooks and working on moving state up and passing it down as props.
 
 **Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30) &
 [Forest API](https://github.com/burrelle/forest)
