@@ -103,7 +103,7 @@
 
 **Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30)
 
-### Day 12: January 12th, 2019
+### Day 13: January 13th, 2019
 
 **Today's Progress**: Continued working on the JavaScript 30 challenge. TDD in Go.
 
