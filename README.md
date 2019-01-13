@@ -94,3 +94,20 @@
 
 **Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30) &
 [Forest API](https://github.com/burrelle/forest)
+
+### Day 12: January 12th, 2019
+
+**Today's Progress**: Continued working on the JavaScript 30 challenge.
+
+**Thoughts**: Short day today with not a lot of time. Fundementals are always welcome.
+
+**Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30)
+
+### Day 12: January 12th, 2019
+
+**Today's Progress**: Continued working on the JavaScript 30 challenge. TDD in Go.
+
+**Thoughts**: TDD has been a great skill to learn with PHP and Laravel and I am happy to apply it to learning a new language.
+
+**Link to work:** [JavaScript 30](https://github.com/burrelle/javascript-30) &
+[Go with tests](https://github.com/burrelle/go-with-tests)
